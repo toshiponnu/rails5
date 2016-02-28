@@ -1,0 +1,25 @@
+title: xxx
+protocol: http://
+domain: xxx.com
+domain_asset: xxx.cloudfront.net
+
+memcached:
+  host: 127.0.0.1:11211
+  namespace: xxx
+
+url:
+  sitemap: https://s3-ap-northeast-1.amazonaws.com/xxx/sitemaps/sitemap_index.xml.gz 
+
+email:
+  system: xxx@xxx.com
+
+aws:
+  region: ap-northeast-1
+  app_key: xxx
+  app_secret: xxx
+  s3_bucket: xxx
+
+provider:
+  facebook:
+    app_key: xxx
+    app_secret: xxx
